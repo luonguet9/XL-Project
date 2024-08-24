@@ -1,4 +1,13 @@
+.name
+codeStyleConfig.xml
+compiler.xml
+gradle.xml
+kotlinc.xml
 *.iml
+misc.xml
+Project.xml
+vcs.xml
+
 .gradle
 /local.properties
 /.idea/caches
@@ -13,3 +22,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+
